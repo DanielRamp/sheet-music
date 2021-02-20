@@ -1,9 +1,9 @@
 \header {
   title = "Alli mini äntli"
-  subtitle = "Hacklily Test 2v2 (https://www.hacklily.org)"
+  subtitle = "Hacklily Test 2v3 (https://www.hacklily.org)"
   composer = "Daniel Ramp"
   tagline = "" % remove the "Music engraving by LilyPond 2.18.2--www.lilypond.org" watermark at the bottom
-  tagline = "alli_mini_aentli_v2.ly"
+  tagline = "alli_mini_aentli_v3.ly"
 }
 
 \score {
