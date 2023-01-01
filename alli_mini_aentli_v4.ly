@@ -12,7 +12,7 @@
     \numericTimeSignature
     \time 4/4
     \override NoteHead.color = #(x11-color "LimeGreen")
-    c8-1\mf d-2 e-1 f-2 g4 g4 a8 a a a g4. a8 a a a g4. f8 f f f e4 e d8 d d d c4 r2
+    c8-1\mf d-2 e-1 f-2 g4 g a8 a a a g4. a8 a a a g4. f8 f f f e4 e d8 d d d c4 r2
   }
 
   \layout {}
